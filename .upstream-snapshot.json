@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-gnu__readline",
+  "canonical_upstream": "https://git.savannah.gnu.org/cgit/readline.git",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://git.savannah.gnu.org/git/readline.git",
+    "branch": "master",
+    "revision": "f95e81428a77b37d83e56c0c7099956e8a7adfc8"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "fe6834e006379cef82fd7f01612fb01c716fd577fad4c5e3f76e9759506c8918",
+  "tree_sha256": "6b9f0522bceb442eab22a55213dc9b471fa794c7e8e62c49a3fad325f94175f5"
+}
